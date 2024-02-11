@@ -1,0 +1,26 @@
+{
+  "name": "photo_share_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e js,json,graphq"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisKey13/photo_share_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisKey13/photo_share_api/issues"
+  },
+  "homepage": "https://github.com/ChrisKey13/photo_share_api#readme",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.8.1",
+    "nodemon": "^3.0.3"
+  }
+}

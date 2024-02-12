@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/ChrisKey13/photo_share_api#readme",
   "dependencies": {
-    "apollo-server": "^3.13.0",
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.18.2",
     "graphql": "^16.8.1",
+    "graphql-playground-middleware-express": "^1.7.23",
     "nodemon": "^3.0.3"
   }
 }
